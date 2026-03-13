@@ -66,6 +66,7 @@ Example Request:
   "text": "I felt calm listening to the rain."
 }
 
+
 Get User Journals
 
 GET /api/journal/:userId
@@ -94,7 +95,7 @@ Example response:
 Installation & Running the Project
 1. Clone the Repository
 
-git clone https://github.com/your-username/ai-journal-system.git
+git clone https://github.com/MohammedQadeer2/Ai-journal-system.git
 cd ai-journal-system
 
 2. Backend Setup
