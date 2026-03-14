@@ -5,6 +5,10 @@ The system stores journal entries, analyzes emotions using an LLM, and provides 
 
 ---
 
+## Live Demo
+
+[Open Application](https://ai-journal-system-win2.onrender.com)
+
 # Tech Stack
 
 ### Backend
